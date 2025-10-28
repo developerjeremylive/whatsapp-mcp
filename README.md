@@ -8,6 +8,8 @@ It connects to your **personal WhatsApp account** directly via the Whatsapp web 
 
 Here's an example of what you can do when it's connected to Claude.
 
+[Mira un ejemplo en YouTube: Le di a la IA acceso a MI WhatsApp… y ahora envía mensajes SOLO con un prompt ¡funciona en Windows!](https://youtu.be/BeSZhcaLON0) <mcreference link="https://youtu.be/BeSZhcaLON0" index="0">0</mcreference>
+
 ![WhatsApp MCP](./example-use.png)
 
 > To get updates on this and other projects I work on [enter your email here](https://docs.google.com/forms/d/1rTF9wMBTN0vPfzWuQa2BjfGKdKIpTbyeKxhPMcEzgyI/preview)
@@ -105,6 +107,12 @@ If you're running this project on Windows, be aware that `go-sqlite3` requires *
 Without this setup, you'll likely run into errors like:
 
 > `Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work.`
+
+## Contribución: Mejoras para Windows 11
+
+Se ha realizado una importante actualización para mejorar la compatibilidad y el despliegue en entornos Windows 11. Esta contribución, bajo el commit "upgrade AI/ML GO libraries for Widows 11 October", incluye la instalación de dependencias faltantes y mejoras en las librerías AI/ML de Go para asegurar un funcionamiento óptimo en Windows 11.
+
+---
 
 ## Architecture Overview
 
