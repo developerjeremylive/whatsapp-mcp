@@ -108,11 +108,14 @@ Without this setup, you'll likely run into errors like:
 
 > `Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work.`
 
-## Contribución: Mejoras para Windows 11
+## Contribution: Improvements for Windows 11
 
-Se ha realizado una importante actualización para mejorar la compatibilidad y el despliegue en entornos Windows 11. Esta contribución, bajo el commit "upgrade AI/ML GO libraries for Widows 11 October", incluye la instalación de dependencias faltantes y mejoras en las librerías AI/ML de Go para asegurar un funcionamiento óptimo en Windows 11.
+I contributed to the project to make it work on Windows 11!
+Previously, deployment on Windows failed due to the go-sqlite3 dependency, which requires CGO enabled and a C compiler.
+This Fork solves this with clear instructions and configuration adjustments so that anyone can run WhatsApp MCP on their Windows machine without problems.
 
----
+👉 Fork with Windows 11 support:
+`https://github.com/developerjeremylive/whatsapp-mcp`
 
 ## Architecture Overview
 
