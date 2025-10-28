@@ -8,7 +8,7 @@ It connects to your **personal WhatsApp account** directly via the Whatsapp web 
 
 Here's an example of what you can do when it's connected to Claude.
 
-[Mira un ejemplo en YouTube: Le di a la IA acceso a MI WhatsApp… y ahora envía mensajes SOLO con un prompt ¡funciona en Windows!](https://youtu.be/BeSZhcaLON0) <mcreference link="https://youtu.be/BeSZhcaLON0" index="0">0</mcreference>
+[Watch an example on YouTube: I gave AI access to MY WhatsApp... and now it sends messages ONLY with a prompt, it works on Windows!](https://youtu.be/BeSZhcaLON0) <mcreference link="https://youtu.be/BeSZhcaLON0" index="0"></mcreference>
 
 ![WhatsApp MCP](./example-use.png)
 
